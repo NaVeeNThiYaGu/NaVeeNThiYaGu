@@ -1,17 +1,19 @@
-### Hi there 👋, im Naveen T
+<h1 align="center">Hi 👋, I'm NaVeeN</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 - 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **naveenthiyagu42@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/naveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen" height="30" width="40" /></a>
+<a href="https://twitter.com/n__a__v__e_e_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n__a__v__e_e_n" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/naveen-t-23a2a7266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen-t-23a2a7266" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/naveenthiyagu42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naveenthiyagu42" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
